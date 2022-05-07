@@ -1,23 +1,30 @@
 # Flutter_team_5_bootcamp
 flutter team oua5 bootcamp
 Takım İsmi
+
 Flutter team 5
 
 Ürün İle İlgili Bilgiler
+
 Takım Elemanları
+
 Serhat Yıldız: Product Owner
 Serhat Yıldız: Scrum Master
 Serhat Yıldız/Gizem Tensi: Team Member/Developer
 Ürün İsmi
 --Simple calculator--
 
-Ürün Açıklaması
+Ürün Açıklaması:
+
 Temel matamatiksel işlemeleri yapmaya yönelik tasarlanmıştır.
-Ürün Özellikleri
+
+Ürün Özellikleri:
 Dört temel işlemi yapma ve ondalık sistemle uyumluluk
-Hedef Kitle
+
+Hedef Kitle:
 Genel kullancı
-Product Backlog URL
+
+Product Backlog URL:
 Miro Backlog Board
 
 Sprint 1
@@ -31,8 +38,11 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack 
 
 Sprint board update: Sprint board screenshotları
 ürün durumu:
+
 sprint review:ürüne karar verilip tasarım tamamlanmıştır  ve var olan işlevlerin en az%75 i tamamlanmış ve teslim edilmiştir.
+
 sprint katılımcıları:Serhat Yıldız,Gizem Tensi.
+
 sprint restrospective:
 Görev dağılımı ve ekip tamamlanmıştır
 genel plan oluşturulmuştur
