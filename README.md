@@ -1,55 +1,16 @@
-# Flutter_team_5_bootcamp
-flutter team oua5 bootcamp
-Takım İsmi
+# calculator12
 
-Flutter team 5
+A new Flutter project.
 
-Ürün İle İlgili Bilgiler
+## Getting Started
 
-Takım Elemanları
+This project is a starting point for a Flutter application.
 
-Serhat Yıldız: Product Owner
-Serhat Yıldız: Scrum Master
-Serhat Yıldız/Gizem Tensi: Team Member/Developer
-Ürün İsmi
---Simple calculator--
+A few resources to get you started if this is your first Flutter project:
 
-Ürün Açıklaması:
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Temel matamatiksel işlemeleri yapmaya yönelik tasarlanmıştır.
-
-Ürün Özellikleri:
-Dört temel işlemi yapma ve ondalık sistemle uyumluluk
-
-Hedef Kitle:
-Genel kullancı
-
-Product Backlog URL:
-Miro Backlog Board
-
-Sprint 1
-Sprint Notları:ürüne karar verildi.
-
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
-
-Sprint board update: Sprint board screenshotları
-ürün durumu:![Ekran Görüntüsü (654)](https://user-images.githubusercontent.com/86874924/167249177-8ab84637-776e-4b22-aa8e-9775ff8f61c5.png)
-
-
-sprint review:ürüne karar verilip tasarım tamamlanmıştır  ve var olan işlevlerin en az%75 i tamamlanmış ve teslim edilmiştir.
-
-sprint katılımcıları:Serhat Yıldız,Gizem Tensi.
-
-sprint restrospective:
-Görev dağılımı ve ekip tamamlanmıştır
-genel plan oluşturulmuştur
-tasarım tamamlanmıştır
-ui tamamlanmıştır 
-developerler kodların planlanan kısmını tamamlamıştır
-
-@pato7y
-Commit new file
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
