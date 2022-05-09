@@ -56,7 +56,7 @@ Sprint board update: Sprint board screenshotları: Backlog 1 Backlog1.2 Backlog1
 
 
 
-Ürün Durumu: Ekran görüntüleri: product
+Ürün Durumu: Ekran görüntüleri: product2
 ![product](https://user-images.githubusercontent.com/86874924/167295753-59bb17f9-a94f-426e-beb7-f65cec9f1f76.png)
 
 
@@ -67,4 +67,83 @@ Sprint Retrospective:
 
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılmıştır
 Takım olarak gerekli kodlar yazılmıştır 
-Plan dahilinde iş yükü %75 oranında tamamlanmıştır
+Plan dahilinde toplam iş yükünün  %75 i tamamlanmıştır
+
+#sprint 2
+Sprint Notları:kodlama ile ilgili iyileştirmeler yapıldı
+
+Sprint içinde tamamlanması tahmin edilen puan: 20  Puan
+
+Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ikinci hafta için  20 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 4 sprint boyunca 100 dür.
+
+Yapılacak işlere (task'lere) bölünmüştür. 
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://1drv.ms/u/s!AoNJMj85ibdJ2TBLqet5yfB6fEtv?e=K7HZ1f
+Sprint board update: Sprint board screenshotları:backlog2, backlog2.1,backlog2.2
+![backlog2](https://user-images.githubusercontent.com/86874924/167430266-872c1ab5-f027-4244-848f-9a90347e0c0b.png)
+![backlog2 1](https://user-images.githubusercontent.com/86874924/167430358-4070cb90-a12c-4f85-994e-3ca317ff1f29.png)
+![backlog2 2](https://user-images.githubusercontent.com/86874924/167430315-881db688-6db7-4650-aba3-27340a0a6533.png)
+
+Ürün Durumu: Ekran görüntüleri: product2
+
+Sprint Review: Alınan kararlar:kodlama hataları düzeltilmiştir ve görsel iyileştirmeler yapılmıştır.
+Sprint Review katılımcıları: Serhat Yıldız,Gizem Tensi
+
+Sprint Retrospective:
+
+Uygulama son haline en yakın hale getirilmiştir
+Takım olarak gerekli kodlar yazılmıştır 
+Plan dahilinde toplam iş yükünün %20 si tamamlanmıştır
+
+#sprint 3
+Sprint Notları:kodlama ile ilgili iyileştirmeler yapıldı, ürün son haline en yakın hale getirildi ve gerekli düzenlemeler yapıldı
+
+Sprint içinde tamamlanması tahmin edilen puan: 3  Puan
+
+Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ikinci hafta için  3 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 4 sprint boyunca 100 dür.
+
+Yapılacak işlere (task'lere) bölünmüştür. 
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+Sprint board update: Sprint board screenshotları:backlog3, backlog3.1,backlog3.2
+
+
+Ürün Durumu: Ekran görüntüleri: product3
+
+Sprint Review: Alınan kararlar:kodlama hataları düzeltilmiştir ve görsel iyileştirmeler yapılmıştır ayrıca ürün çalışır vaziyete getirilmiştir
+Sprint Review katılımcıları: Serhat Yıldız,Gizem Tensi
+
+Sprint Retrospective:
+
+Uygulama tasarımı düzeltilmiştir
+Uİ ile ilgili geliştirmeler yapılmıştır
+Takım olarak gerekli kodlar yazılmıştır 
+Plan dahilinde toplam iş yükünün %3 ü  tamamlanmıştır
+
+#sprint 4
+
+Sprint Notları:kodlama ile ilgili iyileştirmeler yapıldı, ürün son haline en yakın hale getirildi ve gerekli düzenlemeler yapıldı ve uygulama ile ilgili gerekli  testler yapılıp son kullanıma sunulabilir hale getirildi
+
+Sprint içinde tamamlanması tahmin edilen puan: 2  Puan
+
+Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ikinci hafta için  2 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 4 sprint boyunca 100 dür.
+
+Yapılacak işlere (task'lere) bölünmüştür. 
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+Sprint board update: Sprint board screenshotları:backlog4, backlog4.1
+
+
+Ürün Durumu: Ekran görüntüleri: product4
+
+Sprint Review: Alınan kararlar:ürün tamamlanmasına karar verilmiştir
+Sprint Review katılımcıları: Serhat Yıldız,Gizem Tensi
+
+Sprint Retrospective:
+
+Uygulama tasarımı düzeltilmiştir
+Son Uİ tamamlanmıştır 
+Uygulama amcına uygun hale gelicek şekilde çalışır vaziyete getirilmiştir
+Plan dahilinde toplam iş yükünün %2 ü  tamamlanmıştır
+Ve uygulama teslim edilebilir hale getirilmiştir.
+
+
+
+
