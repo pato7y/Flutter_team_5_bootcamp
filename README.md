@@ -40,9 +40,9 @@ Miro Backlog Board
 Sprint 1
 Sprint Notları:ürüne karar verilip tasarım ve kodlama kısmı tamamlandı
 
-Sprint içinde tamamlanması tahmin edilen puan: 300 Puan
+Sprint içinde tamamlanması tahmin edilen puan: 75 Puan
 
-Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ilk hafta için 300 puan hedeflenmiştir
+Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ilk hafta için 75 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 4 sprint boyunca 100 dür.
 
 Yapılacak işlere (task'lere) bölünmüştür. 
 
