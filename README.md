@@ -42,7 +42,7 @@ Sprint Notları:ürüne karar verilip tasarım ve kodlama kısmı tamamlandı
 
 Sprint içinde tamamlanması tahmin edilen puan: 75 Puan
 
-Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ilk hafta için 75 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 4 sprint boyunca 100 dür.
+Puan tamamlama mantığı: 3 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ilk hafta için 75 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 3 sprint boyunca 100 dür.
 
 Yapılacak işlere (task'lere) bölünmüştür. 
 
@@ -74,7 +74,7 @@ Sprint Notları:kodlama ile ilgili iyileştirmeler yapıldı
 
 Sprint içinde tamamlanması tahmin edilen puan: 20  Puan
 
-Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ikinci hafta için  20 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 4 sprint boyunca 100 dür.
+Puan tamamlama mantığı: 3 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ikinci hafta için  20 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 3 sprint boyunca 100 dür.
 
 Yapılacak işlere (task'lere) bölünmüştür. 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://1drv.ms/u/s!AoNJMj85ibdJ2TBLqet5yfB6fEtv?e=K7HZ1f
@@ -95,11 +95,12 @@ Takım olarak gerekli kodlar yazılmıştır
 Plan dahilinde toplam iş yükünün %20 si tamamlanmıştır
 
 #sprint 3
-Sprint Notları:kodlama ile ilgili iyileştirmeler yapıldı, ürün son haline en yakın hale getirildi ve gerekli düzenlemeler yapıldı
+Sprint Notları:kodlama ile ilgili iyileştirmeler yapıldı, ürün son haline en yakın hale getirildi ve gerekli düzenlemeler yapıldı ve uygulama ile ilgili gerekli  testler yapılıp son kullanıma sunulabilir hale getirildi
 
-Sprint içinde tamamlanması tahmin edilen puan: 3  Puan
 
-Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ikinci hafta için  3 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 4 sprint boyunca 100 dür.
+Sprint içinde tamamlanması tahmin edilen puan: 5  Puan
+
+Puan tamamlama mantığı: 3 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ikinci hafta için  5 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 3 sprint boyunca 100 dür.
 
 Yapılacak işlere (task'lere) bölünmüştür. 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
@@ -108,7 +109,7 @@ Sprint board update: Sprint board screenshotları:backlog3, backlog3.1,backlog3.
 
 Ürün Durumu: Ekran görüntüleri: product3
 
-Sprint Review: Alınan kararlar:kodlama hataları düzeltilmiştir ve görsel iyileştirmeler yapılmıştır ayrıca ürün çalışır vaziyete getirilmiştir
+Sprint Review: Alınan kararlar:kodlama hataları düzeltilmiştir ve görsel iyileştirmeler yapılmıştır ayrıca ürün çalışır vaziyete getirilmiştir ve ürün tamamlanmıştır
 Sprint Review katılımcıları: Serhat Yıldız,Gizem Tensi
 
 Sprint Retrospective:
@@ -116,33 +117,18 @@ Sprint Retrospective:
 Uygulama tasarımı düzeltilmiştir
 Uİ ile ilgili geliştirmeler yapılmıştır
 Takım olarak gerekli kodlar yazılmıştır 
-Plan dahilinde toplam iş yükünün %3 ü  tamamlanmıştır
-
-#sprint 4
-
-Sprint Notları:kodlama ile ilgili iyileştirmeler yapıldı, ürün son haline en yakın hale getirildi ve gerekli düzenlemeler yapıldı ve uygulama ile ilgili gerekli  testler yapılıp son kullanıma sunulabilir hale getirildi
-
-Sprint içinde tamamlanması tahmin edilen puan: 2  Puan
-
-Puan tamamlama mantığı: 4 sprint olmasına rağmen sınav haftalarıda göz önüne alınarak ikinci hafta için  2 puan hedeflenmiştir,tamamlamaı hedeflenen toplam puan 4 sprint boyunca 100 dür.
-
-Yapılacak işlere (task'lere) bölünmüştür. 
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
-Sprint board update: Sprint board screenshotları:backlog4, backlog4.1
-
-
-Ürün Durumu: Ekran görüntüleri: product4
-
-Sprint Review: Alınan kararlar:ürün tamamlanmasına karar verilmiştir
-Sprint Review katılımcıları: Serhat Yıldız,Gizem Tensi
-
-Sprint Retrospective:
-
-Uygulama tasarımı düzeltilmiştir
 Son Uİ tamamlanmıştır 
+Plan dahilinde toplam iş yükünün %5 i tamamlanmıştır
 Uygulama amcına uygun hale gelicek şekilde çalışır vaziyete getirilmiştir
-Plan dahilinde toplam iş yükünün %2 ü  tamamlanmıştır
 Ve uygulama teslim edilebilir hale getirilmiştir.
+
+
+
+
+
+
+
+
 
 
 
